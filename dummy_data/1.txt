@@ -1,0 +1,1 @@
+Three histograms. From left to right, Pre Test Scores, Post Test Scores, Delay Test Scores. All x-axis go from 0-1. Each variable shoes a different distribution
